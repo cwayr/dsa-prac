@@ -5,3 +5,4 @@
 | Bubble Sort    | O(_n_)                 | O(_n_^2)                  | O(_n_^2)                | O(1)             |
 | Insertion Sort | O(_n_)                 | O(_n_^2)                  | O(_n_^2)                | O(1)             |
 | Selection Sort | O(_n_^2)               | O(_n_^2)                  | O(_n_^2)                | O(1)             |
+| Merge Sort     | O(_n_ log _n_)         | O(_n_ log _n_)            | O(_n_ log _n_)          | O(_n_)           |
